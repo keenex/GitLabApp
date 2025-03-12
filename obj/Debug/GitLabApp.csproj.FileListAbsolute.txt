@@ -1,0 +1,8 @@
+Z:\2024-2025\15ИС\ОАиП\Фетько Мокроусов\lab10\GitLabApp\bin\Debug\GitLabApp.exe.config
+Z:\2024-2025\15ИС\ОАиП\Фетько Мокроусов\lab10\GitLabApp\bin\Debug\GitLabApp.exe
+Z:\2024-2025\15ИС\ОАиП\Фетько Мокроусов\lab10\GitLabApp\bin\Debug\GitLabApp.pdb
+Z:\2024-2025\15ИС\ОАиП\Фетько Мокроусов\lab10\GitLabApp\obj\Debug\GitLabApp.csproj.AssemblyReference.cache
+Z:\2024-2025\15ИС\ОАиП\Фетько Мокроусов\lab10\GitLabApp\obj\Debug\GitLabApp.csproj.SuggestedBindingRedirects.cache
+Z:\2024-2025\15ИС\ОАиП\Фетько Мокроусов\lab10\GitLabApp\obj\Debug\GitLabApp.csproj.CoreCompileInputs.cache
+Z:\2024-2025\15ИС\ОАиП\Фетько Мокроусов\lab10\GitLabApp\obj\Debug\GitLabApp.exe
+Z:\2024-2025\15ИС\ОАиП\Фетько Мокроусов\lab10\GitLabApp\obj\Debug\GitLabApp.pdb
